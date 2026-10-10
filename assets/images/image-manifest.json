@@ -1,0 +1,152 @@
+[
+  {
+    "image": "hero-vastu-home",
+    "source_bytes": 1970751,
+    "alpha": true,
+    "variants": [
+      {
+        "file": "hero-vastu-home-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 68040
+      },
+      {
+        "file": "hero-vastu-home-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 157278
+      },
+      {
+        "file": "hero-vastu-home.webp",
+        "width": 1200,
+        "height": 1200,
+        "bytes": 297680
+      }
+    ]
+  },
+  {
+    "image": "vastu-compass",
+    "source_bytes": 1849490,
+    "alpha": true,
+    "variants": [
+      {
+        "file": "vastu-compass-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 59626
+      },
+      {
+        "file": "vastu-compass-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 141142
+      },
+      {
+        "file": "vastu-compass.webp",
+        "width": 1000,
+        "height": 1000,
+        "bytes": 205244
+      }
+    ]
+  },
+  {
+    "image": "home-in-hand",
+    "source_bytes": 1590899,
+    "alpha": true,
+    "variants": [
+      {
+        "file": "home-in-hand-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 41446
+      },
+      {
+        "file": "home-in-hand-800.webp",
+        "width": 800,
+        "height": 600,
+        "bytes": 92056
+      },
+      {
+        "file": "home-in-hand.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 179710
+      }
+    ]
+  },
+  {
+    "image": "property-selection",
+    "source_bytes": 2118991,
+    "alpha": false,
+    "variants": [
+      {
+        "file": "property-selection-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 25498
+      },
+      {
+        "file": "property-selection-800.webp",
+        "width": 800,
+        "height": 600,
+        "bytes": 62534
+      },
+      {
+        "file": "property-selection.webp",
+        "width": 1000,
+        "height": 750,
+        "bytes": 91400
+      }
+    ]
+  },
+  {
+    "image": "home-consultation",
+    "source_bytes": 2119686,
+    "alpha": false,
+    "variants": [
+      {
+        "file": "home-consultation-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 19448
+      },
+      {
+        "file": "home-consultation-800.webp",
+        "width": 800,
+        "height": 600,
+        "bytes": 48432
+      },
+      {
+        "file": "home-consultation.webp",
+        "width": 1000,
+        "height": 750,
+        "bytes": 71514
+      }
+    ]
+  },
+  {
+    "image": "renovation-model",
+    "source_bytes": 2227604,
+    "alpha": false,
+    "variants": [
+      {
+        "file": "renovation-model-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 27662
+      },
+      {
+        "file": "renovation-model-800.webp",
+        "width": 800,
+        "height": 600,
+        "bytes": 64764
+      },
+      {
+        "file": "renovation-model.webp",
+        "width": 1000,
+        "height": 750,
+        "bytes": 92276
+      }
+    ]
+  }
+]
